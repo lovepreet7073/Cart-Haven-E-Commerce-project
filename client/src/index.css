@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .alice-carousel {
+    position: relative;
+    width: 100%;
+    margin: auto;
+    direction: ltr;
+    top: 126px;
+} */
